@@ -8,8 +8,7 @@
 
 ## Featured Projects
 
-### Heart Disease Analysis and Prediction
-[**View Project Report**](Heart%20Attack%20Analysis%20and%20Prediction.pdf)
+### [Heart Disease Analysis and Prediction](Heart%20Attack%20Analysis%20and%20Prediction.pdf)
 
 A machine learning system for early detection of heart disease risk factors, achieving **98.36% accuracy** through comprehensive data analysis and model optimization.
 
@@ -23,8 +22,7 @@ A machine learning system for early detection of heart disease risk factors, ach
 
 ---
 
-### Comparison of the Performance of GAN and Diffusion Models in the Vocoder Field
-[**View Research Paper**](https://github.com/Edith218/Portfolio/blob/main/Comparison%20of%20the%20Performance%20of%20GAN%20and%20Diffusion%20Models%20in%20the%20Vocoder%20Field_Main%20Content.pdf)
+### [Comparison of the Performance of GAN and Diffusion Models in the Vocoder Field](https://github.com/Edith218/Portfolio/blob/main/Comparison%20of%20the%20Performance%20of%20GAN%20and%20Diffusion%20Models%20in%20the%20Vocoder%20Field_Main%20Content.pdf)
 
 A comparative analysis of GAN vs. Diffusion models for neural vocoders in speech synthesis, evaluating performance, stability, and practical applications.
 
