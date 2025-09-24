@@ -53,8 +53,4 @@ A comparative analysis of GAN vs. Diffusion models for neural vocoders in speech
 ---
 
 ## Contact
-For code repositories and additional project details, please visit my [GitHub Portfolio](https://github.com/Edith218/Portfolio) or connect with me via email.
-
----
-
-*This portfolio demonstrates my ability to apply AI and machine learning techniques to solve practical problems across healthcare and technology domains.*
+For code repositories and additional project details, please visit my [GitHub Portfolio](https://github.com/Edith218/Portfolio) or connect with me via [email](xuebingxin@gmail.com).
