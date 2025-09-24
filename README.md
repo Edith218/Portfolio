@@ -1,4 +1,4 @@
-# AI Portfolio
+# Portfolio
 
 ## Technical Skills
 - **Machine Learning**: Predictive Modeling, Deep Learning, Model Evaluation
@@ -45,10 +45,10 @@ A comparative analysis of GAN vs. Diffusion models for neural vocoders in speech
 
 ## Project Highlights Summary
 
-| Project | Domain | Key Achievement | Technologies |
-|---------|--------|-----------------|--------------|
-| Heart Disease Prediction | Healthcare ML | 98.36% accuracy in risk prediction | Python, Scikit-learn, LDA |
-| Voice Synthesis Research | AI Research | GAN vs Diffusion model comparison | PyTorch, Audio Processing |
+| Project | Key Achievement | Technologies |
+|---------|-----------------|--------------|
+| Heart Disease Prediction | 98.36% accuracy in risk prediction | Python, Scikit-learn, LDA |
+| Voice Synthesis Research | GAN vs Diffusion model comparison | PyTorch, Audio Processing |
 
 ---
 
